@@ -35,3 +35,8 @@ To run pending migrations on app startup add:
 
 To run pending migrations as a part of rollout do:
 
+
+## Status
+We are already using this project internally but it is not quite ready for public consumption.
+If you are interested in early version please contact us at:
+eric@pandaflow.io
