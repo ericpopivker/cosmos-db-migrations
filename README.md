@@ -1,5 +1,5 @@
 # cosmos-db-migrations
-## Migrations for Data Model changes for Cosmos DB
+Migrations for Data Model changes for Cosmos DB
 
 When you start using Cosmos DB for a while you will certainly have a need for migrating old data to new data, and other types of migrations.
 
