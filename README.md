@@ -38,5 +38,5 @@ To run pending migrations as a part of rollout do:
 
 ## Status
 We are already using this project internally but it is not quite ready for public consumption.
-If you are interested in early version please contact us at:
+If you are interested in early version please contact me at:
 eric@pandaflow.io
